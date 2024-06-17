@@ -1,0 +1,55 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    
+    background-color: black;
+
+    width: 70%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+
+    background-image: url(Spider-man_Marvel_Heroes_comics_Red_background_605709_1280x720.jpg); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 120%;
+}
+
+header{
+    color: white;
+    background-color: black;
+    text-align: center;
+
+    margin: 10%;
+    border: solid white;
+}
+
+.banners{
+    display: inline-block;
+    background-color: aqua;
+
+    display: inline-block;
+    text-align: center;
+    width: 300px;
+    margin: 20px;
+
+    background-color: white;
+    color: black;
+    
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px #131313;
+}
+
+.galeria{
+    margin: 10%;
+}
+
+.Foto{
+    height: 300px;
+    width: 250px;
+    margin: 2%;
+}
+
+.saiba{
+    color: black;
+}
